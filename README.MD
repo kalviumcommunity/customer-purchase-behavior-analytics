@@ -1,4 +1,11 @@
 # Customer Purchase Behavior Analytics
+## Mock UX Design
+
+Design Link:
+https://www.figma.com/proto/ASD9gIflxTotHLPtNXF2U7/Untitled?node-id=1-4&t=NJkvD561BDz9TwSs-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+
+This mock UX demonstrates the application's primary screens, navigation flow, and major user journeys for the Customer Purchase Behavior Analytics application.
+
 
 Capstone project: a practical analytics platform for local businesses.
 
