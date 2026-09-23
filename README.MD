@@ -1,5 +1,7 @@
 # Customer Purchase Behavior Analytics
 
+Capstone project: a practical analytics platform for local businesses.
+
 ## Project Idea
 
 Customer Purchase Behavior Analytics is a data analytics platform for
